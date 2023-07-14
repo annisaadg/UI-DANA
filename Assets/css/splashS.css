@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Inter;
+    font-size: 16px;
+}
+.wrapper {
+    margin: 0 auto;
+      width: 360px;
+      height: 800px;
+    background-color: rgba(16, 142, 233, 1);
+  }
+  .border {
+    margin-left: 97.5px;
+    margin-top: 342px;
+    width: 153px;
+    height: 104px;
+    position: absolute;
+    border-color: rgba(255, 255, 255, 0.2);
+    border-style: solid;
+    border-width: 6px;
+    border-radius: 6px;
+  }
+  .logo {
+    margin-top: 35px;
+    margin-left: 15px;
+  }
